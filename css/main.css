@@ -1,0 +1,83 @@
+.margin-small {
+    margin: 10px;
+}
+
+.margin-top-medium {
+    margin-top: 20px;
+}
+
+.margin-top-large {
+    margin-top: 25px;
+}
+
+.margin-top-larger {
+    margin-top: 30px;
+}
+
+.margin-top-largest {
+    margin-top: 35px;
+}
+
+.margin-bottom-medium {
+    margin-bottom: 20px;
+}
+
+.margin-bottom-large {
+    margin-bottom: 25px;
+}
+
+#closest-weight-font {
+    font-size: 25px;
+}
+
+
+.plateLabel {
+    fill: black;
+    font-weight: bold;
+    font-size: 10px;
+    text-anchor: middle;
+}
+
+#bar {
+    fill: gray;
+}
+
+
+/*Plate colors*/
+
+#redPlate {
+    fill: rgb(255, 0, 0);
+}
+
+#bluePlate {
+    fill: rgb(0, 0, 255);
+}
+
+#yellowPlate {
+    fill: rgb(255, 255, 0);
+}
+
+#greenPlate {
+    fill: rgb(0, 128, 0);;
+}
+
+#whitePlate {
+    fill: rgb(224, 224, 224);
+}
+
+
+/*Official Plate Colors*/
+/*
+red     25  55.12
+blue    20  44.09
+yellow  15  33.07
+green   10  22.05
+white   5   11.02
+red     2.5 5.51
+blue    2   4.41
+yellow  1.5 3.31
+green   1   2.20
+white   0.5 1.10
+*/
+
+
